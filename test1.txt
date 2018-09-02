@@ -2,4 +2,3 @@ I am github!
 I am test pull!
 git pull
 test fetch1
-test1.txt
